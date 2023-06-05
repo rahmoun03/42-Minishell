@@ -1,11 +1,11 @@
 <h1>Minishell</h1>
 <br>
-<tr>
+<hr>
 <br>
   
 The goal of this project is to develop a basic shell using the C programming language, incorporating concepts such as file descriptors and processes that have been learned previously. made by <a href="https://github.com/rahmoun03">Ayoub Rahmoun</a>.
   <br>
-  <tr>
+  <hr>
   <img src="mini.png">
  <br>
   <h3>The Project consist of two parts :</h3><br>
